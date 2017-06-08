@@ -8,3 +8,5 @@ sys.path.insert(0, '/Users/Michael/Documents/Stuff/Pandemic/lib')
 import db_connect
 
 # test change. New stuff.
+
+# new stuf for Thursday.
